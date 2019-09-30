@@ -2,6 +2,75 @@
 
 ## Approximation
 
+
+### Expressibility
+
+- [G. F. Montufar, R. Pascanu, K. Cho, and Y. Bengio. On the number of linear regions of deep neural networks](https://arxiv.org/abs/1402.1869)
+
+- [M. Raghu, B. Poole, J. Kleinberg, S. Ganguli, and J. S. Dickstein. On the expressive power of deep neural networks](https://arxiv.org/abs/1606.05336)
+
+- [R. Arora, A. Basu, P. Mianjy, and A. Mukherjee. Understanding deep neural networks with rectified linear units](https://arxiv.org/abs/1611.01491)
+
+- [T. Serra, C. Tjandraatmadja, and S. Ramalingam. Bounding and counting linear regions of deep neural networks](https://arxiv.org/abs/1711.02114)
+  - Estimate of the maximum number of linear regions.
+ 
+- [B. Hanin and M. Sellke. Approximating continuous functions by relu nets of minimal width](https://arxiv.org/abs/1710.11278)
+  - Universial approximation from the view of width.
+
+
+
+### Interpolation
+
+- [M. Hardt and T. Ma. Identity matters in deep learning](https://arxiv.org/abs/1611.04231)
+  - Interpolation results for ResNet.
+
+- [C. Yun, S. Sra, and J. Ali. Small relu networks are powerful memorizers: a tight analysis of memorization capacity](https://arxiv.org/abs/1810.07770)
+  - Bounds on the interpolation capacity.
+
+
+
+### Approximate functions with certain regularity
+
+- [D. Yarotsky. Error bounds for approximations with deep relu networks](https://arxiv.org/abs/1610.01145)
+  - Upper bound by approximating polynomials, lower bound by estimating VC-dimension.
+
+- [D. Yarotsky. Optimal approximation of continuous functions by very deep relu networks](https://arxiv.org/abs/1802.03620)
+  - Upper bound using 'bit extraction'.
+
+- [D. Yarotsky and A. Zhevnerchuk. The phase diagram of approximation rates for deep neural networks](https://arxiv.org/abs/1906.09477)
+  - Generalize the last result to higher order of regularity.
+
+- [I. Gühring, G. Kutyniok and P. Petersen. Error bounds for approximations with deep ReLU neural networks in Ws,p norms](https://arxiv.org/abs/1902.07896)
+  - Bounds on Sobolev norm.
+
+- [H. Bölcskei, P. Grohs, G. Kutyniok and P. Petersen. Optimal approximation with sparsely connected deep neural networks](https://arxiv.org/abs/1705.01714)
+  - Bounds based on min-max rate distortion theory.
+
+- [I. Daubechies, R. DeVore, S. Foucart, B. Hanin, and G. Petrova. Nonlinear approximation and (deep) relu networks](https://arxiv.org/abs/1905.02199)
+
+- [Z. Shen, H. Yang, and S. Zhang. Deep network approximation characterized by number of neurons](https://arxiv.org/abs/1906.05497)
+
+
+
+
+
+
+
+
+
+
+
+
+### Benefits of depth, separation of neural networks
+
+- [R. Arora, A. Basu, P. Mianjy, and A. Mukherjee. Understanding deep neural networks with rectified linear units](https://arxiv.org/abs/1611.01491)
+
+
+
+
+
+
+
 ### Classical results before deep learning
 
 - [A. Pinkus. Approximation theory of the MLP model in neural networks](http://www2.math.technion.ac.il/~pinkus/papers/acta.pdf)
@@ -30,43 +99,14 @@
 
 
 
+## Generalization
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Optimation
 
 
 
