@@ -21,11 +21,11 @@
 
 ### Interpolation
 
-- M. Hardt and T. Ma. [Identity matters in deep learning](https://arxiv.org/abs/1611.04231)
-  - Interpolation results for ResNet.
-
 - C. Yun, S. Sra, and J. Ali. [Small relu networks are powerful memorizers: a tight analysis of memorization capacity](https://arxiv.org/abs/1810.07770)
   - Bounds on the interpolation capacity.
+ 
+- M. Hardt and T. Ma. [Identity matters in deep learning](https://arxiv.org/abs/1611.04231)
+  - Interpolation results for ResNet.
 
 
 
