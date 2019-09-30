@@ -53,25 +53,26 @@
 
 
 
-
-
-
-
-
-
-
-
 ### Benefits of depth, separation of neural networks
+
+- M. Telgarsky. [Benefits of depth in neural networks](https://arxiv.org/abs/1602.04485)
+
+- R. Eldan and O. Shamir. [The power of depth for feedforward neural networks](https://arxiv.org/abs/1512.03965)
+
+- I. Safran and O. Shamir. [Depth-width tradeoffs in approximating natural functions with neural networks](https://arxiv.org/abs/1610.09887)
 
 - R. Arora, A. Basu, P. Mianjy, and A. Mukherjee. [Understanding deep neural networks with rectified linear units](https://arxiv.org/abs/1611.01491)
 
+- Z. Lu, H. Pu, F. Wang, Z. Hu and L. Wang [The expressive power of neural networks: A view from the width](https://arxiv.org/abs/1709.02540)
+  - Separation results from the view of width.
+
+- T. Poggio, H. Mhaskar, L. Rosasco, B. Miranda and Q. Liao. [Why and when can deep-but not shallow-networks avoid the curse of dimensionality: a review](https://link.springer.com/article/10.1007/s11633-017-1054-2)
+  - Approximate functions with hierarchical structure.
 
 
 
 
-
-
-### Classical results before deep learning
+### Results before deep learning
 
 - A. Pinkus. [Approximation theory of the MLP model in neural networks](http://www2.math.technion.ac.il/~pinkus/papers/acta.pdf)
   - A good summary.
@@ -102,6 +103,11 @@
 ## Generalization
 
 
+### Experiments
+
+- C. Zhang, S. Bengio, M. Hardt, B. Recht and O. Vinyals. [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
+
+- M. Belkin, S. Ma and S. Mandal. [To understand deep learning we need to understand kernel learning](https://arxiv.org/abs/1802.01396)
 
 
 
