@@ -12,7 +12,7 @@
 - R. Arora, A. Basu, P. Mianjy, and A. Mukherjee. [Understanding deep neural networks with rectified linear units](https://arxiv.org/abs/1611.01491)
 
 - T. Serra, C. Tjandraatmadja, and S. Ramalingam. [Bounding and counting linear regions of deep neural networks](https://arxiv.org/abs/1711.02114)
-  - Estimate of the maximum number of linear regions.
+  - Estimates of the maximum number of linear regions.
  
 - B. Hanin and M. Sellke. [Approximating continuous functions by relu nets of minimal width](https://arxiv.org/abs/1710.11278)
   - Universial approximation from the view of width.
