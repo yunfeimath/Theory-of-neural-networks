@@ -130,7 +130,7 @@
 
 - H. Xu and S. Mannor. [Robustness and generalization](https://arxiv.org/abs/1005.2243)
 
-- D. McAllester and T. Akinbiyi [PAC-Bayesian Theory](https://link.springer.com/chapter/10.1007/978-3-642-41136-6_10)
+- D. McAllester and T. Akinbiyi. [PAC-Bayesian Theory](https://link.springer.com/chapter/10.1007/978-3-642-41136-6_10)
   - An introduction of PAC-Bayesian.
 
 
