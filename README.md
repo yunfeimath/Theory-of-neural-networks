@@ -109,6 +109,36 @@
 
 - M. Belkin, S. Ma and S. Mandal. [To understand deep learning we need to understand kernel learning](https://arxiv.org/abs/1802.01396)
 
+- M. Belkin, D. Hsu, S. Ma and S. Mandal. [Reconciling modern machine learning practice and the bias-variance trade-off](https://arxiv.org/abs/1812.11118)
+
+
+
+
+### Probably Approximately Correct (PAC)
+
+- P. Liang. [CS229T/STAT231: Statistical Learning Theory](https://github.com/percyliang/cs229t/blob/master/lectures/notes.pdf)
+  - An introduction.
+
+- P. L. Bartlett, N. Harvey, C. Liaw, and A. Mehrabian. [Nearly-tight VC-dimension and pseudodimension bounds for piecewise linear neural networks](https://arxiv.org/abs/1703.02930)
+  - Estimates of VC-dimension.
+
+- P. L. Bartlett and S. Mendelson. [Rademacher and gaussian complexities: Risk bounds and structural results](http://www.jmlr.org/papers/volume3/bartlett02a/bartlett02a.pdf)
+
+- O. Bousquet and A. Elisseeff. [Stability and generalization](http://www.jmlr.org/papers/volume2/bousquet02a/bousquet02a.pdf)
+
+- M. Hardt, B. Recht, and Y. Singer. [Train faster, generalize better: Stability of stochastic gradient descent](https://arxiv.org/abs/1509.01240)
+
+- H. Xu and S. Mannor. [Robustness and generalization](https://arxiv.org/abs/1005.2243)
+
+- D. McAllester and T. Akinbiyi [PAC-Bayesian Theory](https://link.springer.com/chapter/10.1007/978-3-642-41136-6_10)
+  - An introduction of PAC-Bayesian.
+
+
+
+
+
+
+
 
 
 
