@@ -116,6 +116,8 @@
 
 ### Probably Approximately Correct (PAC)
 
+- F. Cucker and S. Smale. [On the mathematical foundations of learning](https://www.ams.org/journals/bull/2002-39-01/S0273-0979-01-00923-5/S0273-0979-01-00923-5.pdf)
+
 - P. Liang. [CS229T/STAT231: Statistical Learning Theory](https://github.com/percyliang/cs229t/blob/master/lectures/notes.pdf)
   - An introduction.
 
